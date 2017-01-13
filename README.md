@@ -13,7 +13,10 @@ public int employeesNumber { get; set; }
 - getProfit() 
 - getMarketShare()
 
-# Derived CLass
+# Derived Classes
+
+In *Inheritance folder* also you will find derived classes
+## Corporation
 
 
 
