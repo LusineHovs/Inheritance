@@ -53,7 +53,7 @@ StockCompany sck = new StockCompany("FirstStock", "First Plaza 2", "StockCompany
 ~~~
 
 ### If we print above mentioned StockCompany class fields, output will be :
-- StockCompany name ..* => FirstStock
+- StockCompany name               => FirstStock
 - StockCompany address            => First Plaza 2
 - StockCompany businessType       => StockCompany
 - StockCompany employeesNumber    => 102
