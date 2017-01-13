@@ -9,8 +9,9 @@ public string companyAddress { get; set; }
 public string businessType { get; set; }
 public int employeesNumber { get; set; }
 ~~~
-- getProfit() 
-- getMarketShare()
+-- getProfit() 
+-- getMarketShare()
+
 
 
 
