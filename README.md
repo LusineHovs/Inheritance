@@ -17,8 +17,10 @@ public int employeesNumber { get; set; }
 
 In *Inheritance folder* also you will find derived classes
 ### Corporation
-
-
-
+Derived class with the following property and method:
+~~~
+public string subType { get; set; }
+~~~
+- stockTrading()
 
 
