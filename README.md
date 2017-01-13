@@ -15,12 +15,12 @@ public int employeesNumber { get; set; }
 
 # Derived Classes
 
-In *Inheritance folder* also you will find derived classes
-### Corporation : ForProfitOrganizations
+In *Inheritance folder* also you will find derived classes of **ForProfitOrganizations**
+### Corporation
 Derived class with the following property and method:
 ~~~
 public string subType { get; set; }
 ~~~
 - stockTrading()
 
-### SoleProprietorship : ForProfitOrganizations
+### SoleProprietorship
