@@ -34,3 +34,23 @@ Derived class with the following property:
 ~~~
 public int shareholdersNumber { get; set; }
 ~~~
+
+In *UserProgram folder* is **UserProgram** which is for users. Using this program users can create and initialize desired profit company type with its' functions. 
+
+~~~
+namespace UserProgram
+{
+   
+    class Program
+    {
+        
+        static void Main(string[] args)
+        {
+            SoleProprietorship s = new SoleProprietorship("FirstSole","First Plaza 1", "SoleProprietorship", 1,"Prime");
+            Corporation cp = new Corporation("FirstCorp", "First Plaza 2", "Corporation", 150, "K1");
+            StockCompany sck = new StockCompany("FirstStock", "First Plaza 2", "StockCompany", 102, ForProfitOrganizations.subType.closedstock, 16);
+            
+        }
+    }
+}
+~~~
