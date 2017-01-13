@@ -16,7 +16,7 @@ public int employeesNumber { get; set; }
 # Derived Classes
 
 In *Inheritance folder* also you will find derived classes
-## Corporation
+#### Corporation
 
 
 
