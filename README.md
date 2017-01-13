@@ -28,3 +28,9 @@ Derived class with the following property:
 ~~~
 public string taxType { get; set; }
 ~~~
+
+### StockCompany
+Derived class with the following property:
+~~~
+public int shareholdersNumber { get; set; }
+~~~
