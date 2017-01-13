@@ -35,7 +35,7 @@ Derived class with the following property:
 public int shareholdersNumber { get; set; }
 ~~~
 
-In *UserProgram folder* is **UserProgram** which is for users. Using this program users can create and initialize desired profit company type with its' functions. 
+- In *UserProgram folder* is **UserProgram** which is for users. Using this program users can create and initialize desired profit company type with its' functions. 
 
 ~~~
 namespace UserProgram
