@@ -1,12 +1,19 @@
 # Inheritance
 
 This program shows you Inheritance classical exapmle using For-Profit Organizations and its subtypes.
+In *Inheritance folder* you will see **ForProfitOrganizations** class, which is the base class with the following properties and methods:
+
+~~~
+public string companyName { get; set; }
+public string companyAddress { get; set; }
+public string businessType { get; set; }
+public int employeesNumber { get; set; }
+~~~
+- getProfit() 
+- getMarketShare()
 
 
 
 
 
 
-Inheritance classical example using ForProfitOrganization's structure
-
-In the following program you can find types(derived classes) of ForProfit Organizations(base class) and their specific functions and fields.
