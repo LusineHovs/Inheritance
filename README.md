@@ -40,15 +40,15 @@ public int shareholdersNumber { get; set; }
 ```C#
 namespace UserProgram
 {
-   
-    class Program
-    {
-        
-        static void Main(string[] args)
-        {
+
+ class Program
+ {
+
+     static void Main(string[] args)
+     {
 StockCompany sck = new StockCompany("FirstStock", "First Plaza 2", "StockCompany", 102, ForProfitOrganizations.subType.closedstock, 16);
-        }
-    }
+     }
+ }
 }
 ```
 
