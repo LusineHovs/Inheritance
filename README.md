@@ -1,6 +1,10 @@
 # Inheritance
 
 This program shows you Inheritance classical exapmle using For-Profit Organizations and its subtypes.
+
+#Keywords
+C# 6.0, .Net Framework 4.6, Microsoft Visual Studio.
+
 # Base Class
 In *Inheritance folder* you will see **ForProfitOrganizations** class, which is the *base class* with the following properties and methods:
 
